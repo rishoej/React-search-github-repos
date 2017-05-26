@@ -1,0 +1,27 @@
+#react-root{
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px
+}
+input {
+  font-weight: normal;
+  color: #333;
+  display: block;
+  width: 100%;
+  background: none;
+  outline: none;
+  border: none;
+  padding: 0;
+  height: 2.54545em;
+  z-index: 1;
+  position: relative;
+  top: -1px;
+  border-radius: 2px;
+  display: block;
+  position: relative;
+  height: 2.8em;
+  background-color: #fff;
+  border: 1px solid #d0d0d0;
+  margin-top: 40px;
+  padding: 10px 20px;
+}
