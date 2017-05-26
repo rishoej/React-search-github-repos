@@ -1,5 +1,6 @@
 React search Github repository
 =====================
+Search for github user repository. Made with ReactJS.
 
 ### Usage
 
