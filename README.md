@@ -4,7 +4,7 @@ Search for github user repository. Made with ReactJS.
 
 ### Usage
 
-Clone the boilerplate and create your own git repo.
+Clone the git repo.
 
 ```
 git clone git@github.com:rishoej/react-search-github-repos.git
